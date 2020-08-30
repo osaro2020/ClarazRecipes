@@ -1,0 +1,70 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  background-color: #ECECEC;
+
+}
+
+h1{
+  color: #EB3837;
+}
+
+p{
+  line-height: 1.5;
+}
+
+hr{
+  /* border-color: grey; */
+  border-width: 2.5px;
+}
+
+img{
+  max-width: 60%;
+  height: auto;
+}
+
+h4{
+  font-weight: bold;
+  padding-top: 5%;
+}
+
+h5{
+  font-style: italic;
+}
+
+a{
+  margin-bottom: 8%;
+}
+
+/* #Services{
+  margin-top: 500px;
+} */
+
+#title{
+  text-decoration: underline;
+}
+
+.content{
+  width: 50%;
+  margin: 60px auto 100px auto;
+  text-align: center;
+}
+
+.food-image{
+  padding-bottom: 7%;
+}
+
+.title-header{
+  padding-bottom: 8%;
+}
+
+
+
+/* .recipe-title{
+  padding-bottom: 4%;
+} */
+
+/* #approach-list{
+  text-align: left;
+  line-height: 2;
+} */
